@@ -1,4 +1,4 @@
-1ST-Open Terminal in the "Source Code" folder and run: "python app.py" to initalize backend and database.
+1ST-Open Terminal in the "Source Code" folder and run: "python app.py" to initialize backend and database.
 
 2ND-Open a new terminal and run "npm start" to run React.js frontend of the application.
 
